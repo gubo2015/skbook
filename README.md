@@ -1,24 +1,22 @@
-# README
+## SKbook
+* 央行征信
+* 开始于2016/9/18
+* 准备完成于2016/12/18
+* 希望可以按时完成
+* 相信自己
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 我还 不会的
+* markdown
+* html
+* css
+* javascript
+* postgresql
+* ruby
+* rails
+* json
+* chrome
+* atom
+* git
+* github
+* rspec
+* heroku
